@@ -1,0 +1,497 @@
+Name	Pubchem Cid
+Baicalin	64982
+Hesperidin	10621
+Irisflorentin	170569
+Prunasin	119033
+Alisol B 23-Acetate	14036811
+Amygdalin	656516
+Glycyrrhizic Acid	14982
+Hyperoside	5281643
+Isochlorogenic Acid A	6474310
+Liquiritin	503737
+Pseudoephedrine	7028
+Ginsenoside Rf	441922
+Astragaloside II	13996693
+Eleutheroside E	71312557
+Astragaloside I	51346122
+Syringin	5316860
+Isofraxidin	5318565
+Cycloastragenol	13943286
+Calycosin	5280448
+Calycosin7-O-Β-D-Glucopyranoside	5318267
+Isoastragaloside	60148697
+Cantharidin	5944
+Rotundifuran	9841926
+Ainsliadimer A	24939147
+Chlorogenic Acid	1794427
+4-Dicaffeoylquinic Acid	9798666
+Neochlorogenic Acid	5280633
+Isochlorogenic Acid B	5281780
+Isochlorogenic Acid C	6474309
+Caffeic acid	689043
+3,4-Dihydroxybenzoic acid	72
+Ferulic acid	445858
+1,3-O-Dicaffeoylquinic acid	6474640
+L-tryptophan	6305
+Cholic acid	221493
+Ursolic acid	64945
+3-Acetyl-11-Keto-Beta-Boswellic Acid	11168203
+Scutellarin	185617
+Wogonoside	3084961
+Apigenin	5280443
+Apigenin-7-Glucuronide	5319484
+Quercitrin	5280459
+Quercetin-3-O-Glucuronide	5274585
+Schisanhenol	73057
+Schizandrol A	23915
+Schisandrin A	155256
+Schizandrin B	108130
+Ginsenoside Rb3	12912363
+Ginsenoside Rd	24721561
+Ginsenoside Re	441921
+Salvianic Acid A(Sodium 3-(3,4-dihydroxyphenyl)-DL-lactate)	23711819
+Tanshinone I	114917
+Cryptotanshinone	160254
+Formononetin	5280378
+Ononin	442813
+Icaritin	14583584
+Icariin	5318997
+Isoflavone	72304
+Gypenoside XVII	44584555
+baohuoside I	5488822
+Corylin	5316097
+Psoralidin	5281806
+Bakuchiol	5468522
+Psoralen	6199
+Angelicin	10658
+Bavachinin	10337211
+Camphor	2537
+Muscone	10947
+Albiflorin	24868421
+Paeoniflorin	442534
+Liquiritigenin	114829
+Isoliquiritigenin	638278
+Isoliquiritin	5318591
+Liguiritigenin-7-O-D-apiosyl-4'-O-D-glucoside	124578359
+Glycyrrhetinic acid	10114
+Corydaline	101301
+Tetrahydropalmatine	5417
+Tetrahydrocoptisine	6770
+Genkwanin	5281617
+Safflomin A	6443665
+Notoginsenoside R2	21599925
+Chikusetsu saponin Iva	13909684
+Quercetin	5280343
+Resveratrol	445154
+Quinic Acid	6508
+Saikosaponin A	167928
+Neohesperidin	442439
+Isoirigenin	12314679
+Turicine	6560290
+Salicylic acid	338
+Nobiletin	72344
+Limonin	179651
+Tectorigenin	5281811
+Synephrine	7172
+Wogonin	5281703
+cinnamic acid	444539
+Kaempferol	5280863
+cynarin (1,4-Dicaffeoylquinic Acid)	12358846
+Beta-Elemene	6918391
+Verbascoside (Acteoside)	5281800
+Ginsenoside Ro	11815492
+Ginsenoside Rg1	441923
+Alisol O	102004738
+Rutin	5280805
+Ginsenoside Rb1	9898279
+Naringin	442428
+Soyasaponin I	122097
+Vitexin	5280441
+6-Gingerol	442793
+Rosmarinic acid	5281792
+oroxylin A 7-O-β-D-Glucuronide	14655552
+Ginsenoside Rb2	6917976
+Batatasin I	442694
+Salvianolic acid B	6451084
+Palmitic Acid	985
+Gallic acid	370
+Senkyunolide H	13965088
+(-)-Caryophyllene	5281515
+Luteolin	5280445
+1-O-caffeoylquinic acid	10155076
+endo-Borneol	64685
+Levistilide A	70698035
+Tilianin	5321954
+Schisantherin C	6443826
+Iristectorin A	11968629
+DL-Isoborneol	6321405
+Humulene	5281520
+A-Terpineol	17100
+Succinic Acid	1110
+Ephedrine	9294
+Cinnamaldehyde	637511
+Asarinin	11869417
+8-Gingerol	168114
+Atractylenolide-1	5321018
+Tussilagone	13919185
+10-Gingerol	168115
+Pachymic acid	5484385
+Ergosterol	444679
+Shionone	12315507
+Patchouli alcohol	10955174
+Saikosaponin B	9875547
+Toddalolactone	5321961
+Purpurin	6683
+Complanatuside	5492406
+Cyclovirobuxine	260439
+Daphnetin	5280569
+Fangchinoline	73481
+Deoxycholic acid	222528
+Cynarin	5281769
+Capsaicin	1548943
+8-O-Acetylharpagide	9978650
+Pseudolaric Acid B	71307573
+Plantamajoside	5281788
+Shanzhiside methylester	13892722
+Polydatin	5281718
+Cardamonin	641785
+Palmatine hydrochloride	73442
+(+)-Corynoline	177014
+Dehydrodiisoeugenol	5379033
+Ethyl 4-methoxycinnamate	5281783
+Pinocembrin	68071
+Sarsasapogenin	92095
+α-Hederin	73296
+Bilirubin	5280352
+Dipsacoside B	21627940
+Bilobalide	73581
+Rhoifolin	5282150
+Kirenol	15736732
+Tectoridin	5281810
+Harpagide	10044294
+Leonurine hydrochloride	161464
+Liensinine	160644
+Curcumol	14240392
+Curdione	6441391
+Tetrandrine	73078
+Schaftoside	442658
+Asiaticoside	11954171
+Tenuifolin	21588226
+Nodakenin	73191
+Polygalaxanthone III	11169063
+Pectolinarin	168849
+Spinosin	155692
+Ruscogenin	441893
+Pedunculoside	14286954
+Chrysophanol	10208
+daphnoretin	5281406
+Dihydrocapsaicin	107982
+Mesaconitine	441747
+Alpinetin	154279
+Norisoboldine	14539911
+Alantolactone	72724
+Daidzein	5281708
+Vaccarin	71307582
+Sophoridine	165549
+Praeruptorin B	10251869
+Isoquercitrin;Isoquercetin; Isoquercitroside	5280804
+Orientin	5281675
+Liriope muscari baily saponins C	21630000
+Wedelolactone	5281813
+5-O-Methylvisammioside	21670038
+Columbianadin	6436246
+Tanshinone IIA-sulfonic sodium	23669322
+Racanisodamine	2198
+Germacrone	6436348
+Forsythoside B	23928102
+Imperatorin	10212
+Atractylodin	5321047
+Notopterol	5320227
+Griffonilide	100341
+Engeletin	6453452
+vitexicarpin	5315263
+Magnolin	169234
+Pseudoprotodioscin	51346147
+Hyodeoxycholic acid	5283820
+Indirubin	10177
+Panaxadiol	73498
+Panaxtriol	73599
+Gastrodin	115067
+Cynaroside	5280637
+Sesamin	72307
+Polygalic acid	12442765
+Evodiamine	442088
+Artemisinine	68827
+6,7-Dihydroxycoumarin	5281416
+Baicalein	5281605
+Eupalinolide A	77985550
+Madecassoside	45356919
+Arbutin	440936
+Indigo	10215
+3,4-Dihydroxybenzaldehyde	8768
+Emodin	3220
+Vitexin-2″-O-Rhamnoside	5282151
+Peimine	131900
+Aloeemodin	10207
+Silymarin	31553
+Aristolochic acid A	2236
+Salidroside	159278
+Rutaecarpine	65752
+Rhein	10168
+Sinomenine	5459308
+Bergenin	66065
+Vanillic acid	8468
+Geniposide	107848
+Curcumin	969516
+Nitidine Chloride	25659
+Jatrorrhizine Hydrochloride	371256
+Ginkgolide B	65243
+Ginkgolide C	24721502
+Stevioside	442089
+Dehydroandrographolide	78577438
+Loureirin B	189670
+Isoimperatorin	68081
+1,8-Dihydroxyanthraquinone	2950
+Hederagenin	73299
+Ginsenoside Rg3	9918693
+Rhapontin	637213
+Rubimaillin	124219
+Phellodendrine chloride	59818
+Mogroside V	24721270
+Glucosyl-vitexin	56933064
+Sipeimine	442977
+Jujuboside B	24721031
+(-)-pareruptorin A	38347601
+Oridonin	5321010
+3-Hydroxy-4-methoxycinnamic acid	736186
+Aloin	313325
+Daurisoline	51106
+aurantio-obtusin	155011
+Myricetrin	5281673
+Astilbin	119258
+Honokiol	72303
+Piperine	638024
+Schisantherin A	151529
+Barlerin	162823
+Daidzin	107971
+Peiminine	167691
+Demethoxycurcumin	5469424
+Isorhamnetin	5281654
+Isorhamnetin-3-O-neohespeidoside	11664505
+3,6'-Disinapoyl Sucrose	11968389
+Pinoresinol diglucoside	174003
+Ethyl caffeate	5317238
+Typhaneoside	14353383
+Loganin	87691
+Betaine	247
+Fraxetin	5273569
+Gentiopicrin	88708
+Aconitine	245005
+Toosendanin	9851101
+Pogostone	54695756
+Senkyunolide I	11521428
+Hypaconitine	441737
+ECG	107905
+Podophyllotoxin	10607
+Obacunone	119041
+Amentoflavone	5281600
+Prim-o-glucosylcimifugin	14034912
+Dendrobine	442523
+Isorhynchophylline	3037048
+Matrine	91466
+Geniposidic acid	443354
+Platycodin D	162859
+Mulberroside A	6443484
+Esculentoside A	125210
+Bullatine A	71300866
+Buddleoside	5317025
+Sophoricoside	5321398
+Ginsenoside F2	9918692
+(+)-Catechin Hydrate	9064
+Strychnine	441071
+Specnuezhenide	91895359
+Galangin;3,5,7-Trihydroxyflavone	5281616
+Tenacissoside H	75412560
+Astragaloside IV	13943297
+Fraxinellone	124039
+Catalpol	91520
+Crotaline	9415
+Osthole	10228
+Ginsenoside Rc	12855889
+2,3,5,4-tetrahydroxyl diphenylethylene-2-o-glucoside	5321884
+3,29-Dibenzoyl rarounitriol	11556558
+Dauricine	73400
+4-Mthoxysalicylaldehyde	69600
+4-Carvomenthenol	11230
+4-Hydroxyphenylacetic acid	127
+5-hydroxymethyl-2-furaldehyde	237332
+Linolenic acid	5280934
+α-Cyperone	6452086
+β-Sitosterol	222284
+Ecdysterone	5459840
+Valtrate	442436
+Deacetylasperulosidic acid	6325021
+Bornyl acetate	93009
+(-)-Syringaresnol-4-O-β-D-apiofuranosyl-(1→2)-β-D-glucopyranoside	75412549
+Eugenol	3314
+Sodium Aescinate	3084345
+Ginsenoside Rg2	21599924
+Protopanaxdiol	11213350
+Pseudoginsenoside- F11	21633072
+Ginsenoside Rh2	119307
+Ginsenoside F1	9809542
+Murrayone	5319964
+Notoginsenoside R1	441934
+Sauchinone	11725801
+Tubeimoside I	51346132
+Physcion	10639
+Euphol	441678
+Allicin	65036
+Liriopeside B	21630160
+Kaempferol-3-O-rutinoside	5318767
+Euphorbiasteroid	15940183
+Asperosaponin Ⅵ	14284436
+Ligustroflavone	10417462
+Brucine	442021
+Thymol	6989
+Costunlide	5281437
+Calceolarioside B	5273567
+Oroxin B	10077207
+Heteroclitin D	10367978
+Peimisine	161294
+Sipeimine-3β-D-glucoside	90479257
+Arctiin	100528
+Taurocholic acid Sodium Salt	23666345
+Erianin	356759
+cis-Anethol	637563
+Paeonol	11092
+Benzoylaconine	20055771
+Benzoylmesaconine	24832659
+Benzoylhypacoitine	78358535
+Linderane	6915739
+Hosenkoside A	102004530
+Hosenkoside K	102004887
+Crotonoside	65085
+Methyl salicylate	4133
+Bisdemethoxycurcumin	5315472
+Monotropein	73466
+Dehydrocostus Lactone	73174
+Nardosinone	168136
+Glycerine trioleate	5497163
+Monoammoniumglycyrrhizinate	62074
+Columbin	188289
+Gigantol	3085362
+(-)-Borneol	1201518
+Loureirin A	5319081
+Dioscin	119245
+Scopoletin	5280460
+2-Undecanone	8163
+Curculigoside	158845
+Chrysin	5281607
+Ginkgoneolic acid	161306
+Buddlejasaponin IVb	91758420
+Polygalasaponin F	11629473
+4'-Hydroxyacetophenone	7469
+4-Hydroxybenzyl Alcohol	125
+Gypsogenin3-O-β-D-glucuronide 6'-methyl ester	21626375
+Momordin Ic	176596
+Crocin I	5281233
+Crocin II	9940690
+Macranthoidin B	71307567
+Raddeanin A	174742
+Cinobufagin	11969542
+Dracohodin perochlorate	74787691
+Oleanolic acid	10494
+Macelignan, (+)-	10404245
+Isoalantolactone	73285
+Kaurenoic acid	73062
+Maltopentaose	124005
+Senegenin	12442762
+Taxifolin	439533
+Sinapine thiocyanate	22155122
+Linalool	6549
+Lucidin	10163
+Farrerol	91144
+Phillyrin	24721571
+Forsythoside A	5281773
+Ecliptasaponin A	476537
+Evodine	398789
+Goitrin	3034683
+Agarotetrol	13606036
+Quercetin 3-O-β-D-glucose-7-O-β-D-gentiobioside	131637041
+EC;Epicatechin	72276
+EGCG	65064
+Picfeltarraenin IA	91884878
+Blinin	59054177
+Cyasterone	119444
+Echinacoside	5281771
+Timosaponin BII	44575945
+Poliumoside	6442411
+Anisic aldehyde	31244
+Trigonelline	5570
+Picroside I	6440892
+Picroside II	3081484
+Pulegone	442495
+Citric acid hydrate	22230
+Pectolinarigenin	5320438
+Roburic acid	12315005
+Magnolol	72300
+Nystose	166775
+Harpagoside	5281542
+Scopolamine hydrobromide	6603108
+Arecoline hydrobromide	9301
+Carvacrol	10364
+Polyphyllin I	11018329
+Polyphyllin II	328441
+Polyphyllin VI	10417550
+Polyphyllin VII	176233
+Genistin	5281377
+Andrographolide	5318517
+Tracheloside	169511
+Esculin	5281417
+Stachydrine	44150282
+Cephaelin Hydrochloride	23615629
+Swertiamarin	442435
+Liensinine diperchlorate	71307566
+Morroniside	11228693
+Nuciferine	10146
+Hyoscyamine	154417
+Alnustone	5317598
+Cineole	2758
+Protopine	4970
+Saikosaponin D	51346137
+Lobetyolin	53486204
+Jujuboside A	51346169
+Oxymatrine	114850
+Liquidambaric acid	122844
+Dihydrotanshinone I	11425923
+Tanshinone IIA	164676
+Resibufogenin	6917974
+β,β-Dimethylacrylalkannin	442720
+Alkannin	5208
+Acevaltratum (Acevaltrate)	65717
+Berberine hydrochloride	12456
+Ginkgolide A	115221
+vitamin D2	5280793
+Puerarin	5281807
+Hyoscyamine sulfate hydrate	11479437
+l-Perillaldehyde	2724159
+Lithospermoside	10065132
+Diosgenin	99474
+Menthol	1254
+Hupehenine	14240934
+Z-Ligustilide	5319022
+Tiliroside	5320686
+Ellagic acid	5281855
+Taraxerone	92785
+Cordycepin	6303
+Fargesin	10926754
+Cochinchinenin C	23634528
+cis,trans-Germacrone	81323
+Isolindleyin	14345583
+Hispidulin;Dinatin	5281628
+Trifolin	5282149
+Tripterifordin;Hypodiolide A	72369
+Kamebakaurine	13945489
+Cornuside I	11228694
+Corynoxeine	44568160
